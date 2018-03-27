@@ -5,6 +5,7 @@ public class InventoryInfo {
     private final static String node = System.getenv().getOrDefault("APAAS_CONTAINER_NAME", "node1");
 
     public InventoryInfo() {
+
     }
 
     
