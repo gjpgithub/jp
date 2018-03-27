@@ -22,6 +22,7 @@ public class InventoryInfo {
     
     public String getNode() {
         return node;
+
     }
 
 
